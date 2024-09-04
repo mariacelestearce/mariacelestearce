@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👩‍💻 María Celeste Arce | Data Analyst | Global IT PMO | Aspiring Back-End Developer
 
 🌍 **Location:** Mendoza, Argentina  
